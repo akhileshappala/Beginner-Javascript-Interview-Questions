@@ -1,9 +1,7 @@
 
 
- 1. What is JavaScript? 
-		 
+1.  What is JavaScript? 
 2.  What are the differences between JavaScript and Java?
-	3. 
 3.  How do you declare a variable in JavaScript?
 4.  What are the different data types in JavaScript?
 5.  How do you comment in JavaScript?
@@ -42,5 +40,6 @@
 38.  How do you declare and use arrow functions in JavaScript?
 39.  What are template literals in JavaScript and how do you use them?
 40.  How do you import and export modules in JavaScript?
+41.  
 
 
